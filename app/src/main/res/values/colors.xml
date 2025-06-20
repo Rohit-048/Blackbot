@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="colorPrimary">#3498db </color>
+    <color name="colorPrimaryDark">#2980B9</color>
+    <color name="colorAccent">#e74c3c</color>
+    <color name="background_color">#E5F2FF</color>
+
+    <!-- Primary text color -->
+    <color name="primary_text_color">#17202A</color>
+</resources>
+
+
